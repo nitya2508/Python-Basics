@@ -37,3 +37,9 @@ while n<60:
     print(f'inside while {n}')
     n+=1
 
+
+x = 10
+
+while x in range(8,20):
+    print("in range")
+    x+=1
